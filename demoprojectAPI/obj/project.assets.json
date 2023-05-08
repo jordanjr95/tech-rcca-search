@@ -969,11 +969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patel\\source\\repos\\demoprojectAPI\\demoprojectAPI\\demoprojectAPI.csproj",
+      "projectUniqueName": "C:\\Users\\patel\\source\\repos\\tech-rcca-search\\demoprojectAPI\\demoprojectAPI.csproj",
       "projectName": "demoprojectAPI",
-      "projectPath": "C:\\Users\\patel\\source\\repos\\demoprojectAPI\\demoprojectAPI\\demoprojectAPI.csproj",
+      "projectPath": "C:\\Users\\patel\\source\\repos\\tech-rcca-search\\demoprojectAPI\\demoprojectAPI.csproj",
       "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patel\\source\\repos\\demoprojectAPI\\demoprojectAPI\\obj\\",
+      "outputPath": "C:\\Users\\patel\\source\\repos\\tech-rcca-search\\demoprojectAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
