@@ -53,7 +53,7 @@
                     break;
 
                 case "Year":
-                    return await _documentsCollection.Find(x => x.formElements.Year.Contains(value)).ToListAsync();
+                    return await _documentsCollection.Find(x => x.formElements.Date.Contains(value)).ToListAsync();
                     break;
 
                 case "Description":

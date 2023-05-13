@@ -17,7 +17,7 @@ namespace demoprojectAPI.Models
         public string Contributor { get; set; }
         public string Coverage { get; set; }
         public string Creator { get; set; }
-        public string Year { get; set; }
+        public string Date { get; set; }    
         public string Description { get; set; }
         public string Format { get; set; }
         public string Identifier { get; set; }
